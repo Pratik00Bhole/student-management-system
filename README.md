@@ -14,6 +14,24 @@ This version uses **CSV file storage** so that data is saved permanently and can
 
 ---
 
+## 📖 Learning Outcomes
+
+Understanding of file handling with CSV in Python
+
+Building a menu-driven console application
+
+Data persistence across program executions
+
+---
+
+## File Structure
+   student-management-system/
+│── student_management.py   # Main source code
+│── students.csv            # Data file (auto-created when running)
+│── README.md               # Documentation
+
+---
+
 ## 🛠️ Tech Stack
 - Python (Core)
 - CSV File Handling
